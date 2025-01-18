@@ -12,8 +12,8 @@ kame.color("green")
 kame.speed(2)
 
 # 四角形を描く
-for i in range(1,100):
-    kame.forward(100*i)  # 100ピクセル前進
+for i in range(100):
+    kame.forward(100+i*2)  # 100ピクセル前進
     kame.left(90)      # 左に90度回転
 
 # 円を描く
@@ -24,4 +24,5 @@ kame.circle(50)        # 半径50の円を描く
 
 # プログラムを終了するまでウィンドウを開いたままにする
 screen.mainloop()
+
 
