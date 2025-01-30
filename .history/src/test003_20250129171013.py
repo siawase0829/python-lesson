@@ -13,7 +13,5 @@ pprint.pprint(B * A)
 pprint.pprint(A * B)
 for i in map(lambda x: x**2, range(10)):
     print(i)
-)   
-
-
-
+    open("test003.py", "r").read()
+    pprint.pprint()

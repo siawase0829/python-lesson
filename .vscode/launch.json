@@ -4,6 +4,7 @@
     // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+<<<<<<< HEAD
         {
             "name": "Python デバッガー: 現在のファイル",
             "type": "debugpy",
@@ -11,6 +12,12 @@
             "program": "${file}",
             "console": "integratedTerminal"
         },
+=======
+        {"name":"Python デバッガー: 現在のファイル","type":"debugpy","request":"launch","program":"${file}","console":"integratedTerminal"},
+        
+        
+
+>>>>>>> 3d1c138 (1/30 update)
         {
             "name": "Python デバッガー: 現在のファイル",
             "type": "debugpy",

@@ -1,0 +1,13 @@
+{
+    "python.languageServer": "Pylance",
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": true
+    },
+    "editor.suggestSelection": "recentlyUsedByPrefix",
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "terminal.integrated.gpuAcceleration": "off"
+}
+}
