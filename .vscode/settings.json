@@ -1,0 +1,5 @@
+{
+    "docwriter.style": "NumPy",
+    "docwriter.progress.trackFunctions": false,
+    "docwriter.progress.trackMethods": false
+}
