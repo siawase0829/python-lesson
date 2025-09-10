@@ -1,0 +1,10 @@
+
+// Save the file to accept the change.
+// close without saving to cancel the change.
+// RunMode reference: https://github.com/jest-community/vscode-jest#runmode
+{
+    "$schema": "file:///Users/aratakekouji/.vscode/extensions/orta.vscode-jest-6.4.4/syntaxes/ExtSettingsSchema.json",
+    "jest.runMode": {
+        "type": "on-demand"
+    }
+}

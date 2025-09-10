@@ -1,5 +1,8 @@
 {
     "docwriter.style": "NumPy",
     "docwriter.progress.trackFunctions": false,
-    "docwriter.progress.trackMethods": false
+    "docwriter.progress.trackMethods": false,
+     "jest.runMode": {
+        "type": "on-demand"
+    }
 }
